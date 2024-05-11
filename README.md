@@ -18,8 +18,3 @@ STRIPE_SECRET_KEY="sk_test_..."   // Replace this with your own key
 - Payment mode accepted is only card (either credit or debit)
 - Payment intent gets created by the calling the stripe api from the client side
 - User get feedback after the transaction complete or fails
-
-
-
-## 👩‍💻 Authors -
-- [Snehasis4321](https://github.com/Snehasis4321)
